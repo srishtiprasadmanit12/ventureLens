@@ -1,0 +1,46 @@
+{
+  "name": "Hebbia",
+  "website": "https://www.hebbia.com",
+  "description": "AI workspace for searching, analyzing, and synthesizing information from large collections of business documents.",
+  "founders": [
+    "George Sivulich"
+  ],
+  "source_url": "https://www.hebbia.com/about",
+  "notes": "Public materials emphasize document-heavy knowledge work. Validate target customer urgency, answer accuracy, security requirements, and repeat usage.",
+  "source_material": "Hebbia appears to help teams search, analyze, and synthesize large business-document collections. George Sivulich is listed as founder. The strongest possible use case is document-heavy knowledge work, but target customer, accuracy threshold, security requirements, and repeat usage need evidence.",
+  "evidence": {
+    "team": {
+      "background": "George Sivulich is listed as founder.",
+      "prior_experience": "Founder background and technical depth require verification."
+    },
+    "product": {
+      "target_customer": "Teams performing document-heavy knowledge work",
+      "core_product": "AI workspace for searching, analyzing, and synthesizing business documents",
+      "key_capabilities": [
+        "Document search",
+        "Document analysis",
+        "Information synthesis"
+      ]
+    },
+    "market": {
+      "market_category": "Enterprise knowledge management and document intelligence",
+      "competition": [
+        "Enterprise search tools",
+        "Document management platforms",
+        "General-purpose AI assistants"
+      ]
+    },
+    "traction": {
+      "signal": "Product is aimed at large collections of business documents",
+      "freshness": "No verified customer usage or dated traction signal is included"
+    }
+  },
+  "open_questions": [
+    "Which customer segment has the most urgent use case?",
+    "What accuracy and security thresholds are required?",
+    "Is usage frequent enough to support durable retention?"
+  ],
+  "sources": [
+    "https://www.hebbia.com/about"
+  ]
+}

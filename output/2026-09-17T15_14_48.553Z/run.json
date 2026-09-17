@@ -1,0 +1,70 @@
+{
+  "run_timestamp": "2026-09-17T15:14:48.553Z",
+  "input_path": "data/startups.json",
+  "input_sha256": "3774e0e17b8c402671782b997c75854d79522e66d31bf19c49cf37f65724dafc",
+  "thesis_version": "b2b-ai-workflow-v1",
+  "model": "fixture",
+  "candidate_count": 10,
+  "results": [
+    {
+      "name": "Harvey",
+      "status": "success",
+      "recommendation": "Watch",
+      "score": 64.5
+    },
+    {
+      "name": "Glean",
+      "status": "success",
+      "recommendation": "Watch",
+      "score": 64.5
+    },
+    {
+      "name": "Clay",
+      "status": "success",
+      "recommendation": "Watch",
+      "score": 64.5
+    },
+    {
+      "name": "Decagon",
+      "status": "success",
+      "recommendation": "Watch",
+      "score": 64.5
+    },
+    {
+      "name": "Sierra",
+      "status": "success",
+      "recommendation": "Watch",
+      "score": 64.5
+    },
+    {
+      "name": "Hebbia",
+      "status": "success",
+      "recommendation": "Watch",
+      "score": 64.5
+    },
+    {
+      "name": "Cursor",
+      "status": "success",
+      "recommendation": "Watch",
+      "score": 64.5
+    },
+    {
+      "name": "Runway",
+      "status": "success",
+      "recommendation": "Watch",
+      "score": 64.5
+    },
+    {
+      "name": "Ramp",
+      "status": "success",
+      "recommendation": "Watch",
+      "score": 64.5
+    },
+    {
+      "name": "Vanta",
+      "status": "success",
+      "recommendation": "Watch",
+      "score": 61.5
+    }
+  ]
+}

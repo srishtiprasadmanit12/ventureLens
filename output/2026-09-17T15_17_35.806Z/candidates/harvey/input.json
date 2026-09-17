@@ -1,0 +1,47 @@
+{
+  "name": "Harvey",
+  "website": "https://www.harvey.ai",
+  "description": "AI software for legal and professional services workflows, including research, drafting, and document analysis.",
+  "founders": [
+    "Gabriel Pereyra",
+    "Winston Weinberg"
+  ],
+  "source_url": "https://www.harvey.ai/about",
+  "notes": "Public company materials describe a focus on legal and professional services users. Validate customer traction, workflow depth, and differentiation during analysis.",
+  "source_material": "Harvey says it is building AI for legal and professional services. The product references research, drafting, and document analysis. Founders listed are Gabriel Pereyra and Winston Weinberg. Need to establish who pays, how often the workflow occurs, whether lawyers trust the output, and what is genuinely difficult to copy. No verified traction or retention metric is included here.",
+  "evidence": {
+    "team": {
+      "background": "Founder names are publicly listed, but detailed backgrounds are not included in this dataset.",
+      "prior_experience": "Unknown; verify from founder biographies and professional profiles."
+    },
+    "product": {
+      "target_customer": "Legal and professional services teams",
+      "core_product": "AI software for research, drafting, and document analysis",
+      "key_capabilities": [
+        "Legal research",
+        "Document drafting",
+        "Document analysis"
+      ]
+    },
+    "market": {
+      "market_category": "Legal technology and professional services software",
+      "competition": [
+        "Established legal research tools",
+        "Professional services software",
+        "General-purpose AI assistants"
+      ]
+    },
+    "traction": {
+      "signal": "Product is positioned for professional workflows",
+      "freshness": "Current source material does not include a dated traction metric"
+    }
+  },
+  "open_questions": [
+    "Who is the economic buyer and what budget funds the product?",
+    "What customer retention or expansion evidence exists?",
+    "How deeply is the product embedded in legal workflows and review processes?"
+  ],
+  "sources": [
+    "https://www.harvey.ai/about"
+  ]
+}

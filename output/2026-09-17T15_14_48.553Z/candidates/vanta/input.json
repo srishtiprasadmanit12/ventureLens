@@ -1,0 +1,46 @@
+{
+  "name": "Vanta",
+  "website": "https://www.vanta.com",
+  "description": "Trust management platform that helps companies automate security compliance, audits, and vendor risk workflows.",
+  "founders": [
+    "Christina Cacioppo"
+  ],
+  "source_url": "https://www.vanta.com/about",
+  "notes": "Public materials describe automated compliance and trust workflows. Validate AI differentiation, renewal behavior, audit liability, and competitive pressure.",
+  "source_material": "Vanta helps companies automate security compliance, audits, and vendor-risk workflows. Christina Cacioppo is listed as founder. Compliance is recurring and potentially painful, while AI differentiation, renewal behavior, audit liability, and competitive pressure remain unknown.",
+  "evidence": {
+    "team": {
+      "background": "Christina Cacioppo is listed as founder.",
+      "prior_experience": "Founder background and compliance domain experience require verification."
+    },
+    "product": {
+      "target_customer": "Companies managing security compliance and vendor risk",
+      "core_product": "Trust management and compliance automation platform",
+      "key_capabilities": [
+        "Security compliance",
+        "Audit preparation",
+        "Vendor risk workflows"
+      ]
+    },
+    "market": {
+      "market_category": "Security compliance and trust management",
+      "competition": [
+        "Compliance automation platforms",
+        "Security consulting firms",
+        "Internal security teams"
+      ]
+    },
+    "traction": {
+      "signal": "Product addresses recurring compliance and audit workflows",
+      "freshness": "No verified renewal, customer, or AI differentiation metric is included"
+    }
+  },
+  "open_questions": [
+    "What evidence exists for renewal and expansion?",
+    "How much of the workflow is automated versus assisted?",
+    "Who bears liability when compliance evidence is incomplete or wrong?"
+  ],
+  "sources": [
+    "https://www.vanta.com/about"
+  ]
+}

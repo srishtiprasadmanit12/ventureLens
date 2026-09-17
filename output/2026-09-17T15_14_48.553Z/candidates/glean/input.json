@@ -1,0 +1,46 @@
+{
+  "name": "Glean",
+  "website": "https://www.glean.com",
+  "description": "Enterprise AI search and workplace assistant that helps employees find and use information across company systems.",
+  "founders": [
+    "Arvind Jain"
+  ],
+  "source_url": "https://www.glean.com/about",
+  "notes": "Public website presents enterprise search and knowledge assistance as the core product. Validate implementation complexity, adoption, and retention signals.",
+  "source_material": "Glean appears to help employees search company systems and use internal knowledge through an AI assistant. Arvind Jain is listed as founder. The buyer and deployment path are not clear from this input. Ask which systems are connected, how quickly a customer sees value, and whether usage becomes part of daily work. No customer or revenue evidence is supplied.",
+  "evidence": {
+    "team": {
+      "background": "Arvind Jain is listed as founder and is described in the supplied research as having a strong engineering background.",
+      "prior_experience": "Previously worked at Google and co-founded Rubrik; verify the exact role and relevance to enterprise infrastructure."
+    },
+    "product": {
+      "target_customer": "Enterprise organizations",
+      "core_product": "AI-powered enterprise search and workplace assistant",
+      "key_capabilities": [
+        "Enterprise search",
+        "Knowledge retrieval",
+        "AI workplace assistance"
+      ]
+    },
+    "market": {
+      "market_category": "Enterprise search and workplace AI",
+      "competition": [
+        "Microsoft",
+        "Google",
+        "ServiceNow"
+      ]
+    },
+    "traction": {
+      "signal": "Public enterprise customer references and continued product development are suggested by the supplied research",
+      "freshness": "Recent AI product updates are suggested; verify dates and customer evidence"
+    }
+  },
+  "open_questions": [
+    "What is the customer retention rate?",
+    "How deeply is the product integrated into customer workflows?",
+    "What evidence exists for recurring daily usage?"
+  ],
+  "sources": [
+    "https://www.glean.com/about"
+  ]
+}

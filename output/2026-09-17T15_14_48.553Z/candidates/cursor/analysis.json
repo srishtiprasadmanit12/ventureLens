@@ -1,0 +1,86 @@
+{
+  "team": {
+    "summary": "The listed founders are Michael Truell, Aman Sanger, Arvid Lunnemark, Santiago Perez.",
+    "evidence": [
+      {
+        "claim": "Founder names are listed in the candidate dataset.",
+        "url": "https://www.cursor.com/about",
+        "quote": "Cursor is an AI-powered code editor for understanding, generating, refactoring, and reviewing code. Founders listed are Michael Truell, Aman Sanger, Arvid Lunnemark, and Santiago Perez. Developer pain is frequent, but model dependence, retention, pricing, and distribution advantages are open questions."
+      }
+    ],
+    "unknowns": [
+      "Prior exits, technical depth, and founder-market fit require verification."
+    ]
+  },
+  "product": {
+    "summary": "AI-powered code editor that helps software developers understand, generate, refactor, and review code.",
+    "evidence": [
+      {
+        "claim": "The candidate has a public source recorded.",
+        "url": "https://www.cursor.com/about",
+        "quote": "https://www.cursor.com/about"
+      }
+    ],
+    "unknowns": [
+      "Implementation depth and customer adoption are not established."
+    ]
+  },
+  "market": {
+    "summary": "Developer tools and AI-assisted software development",
+    "evidence": [
+      {
+        "claim": "The candidate has a public source recorded.",
+        "url": "https://www.cursor.com/about",
+        "quote": "https://www.cursor.com/about"
+      }
+    ],
+    "unknowns": [
+      "Market size, willingness to pay, and timing are not established."
+    ],
+    "assumptions": [
+      "The described workflow occurs often enough to justify dedicated software."
+    ]
+  },
+  "risks": [
+    "The input does not verify traction, retention, pricing, or customer outcomes.",
+    "Competitive and distribution risks require diligence."
+  ],
+  "scoring_inputs": {
+    "pain_frequency": {
+      "rating": 7,
+      "reason": "The source describes a recurring business workflow."
+    },
+    "product_clarity": {
+      "rating": 7,
+      "reason": "The candidate description states the product category and use case."
+    },
+    "ai_advantage": {
+      "rating": 7,
+      "reason": "The input describes an AI or automation component."
+    },
+    "market_timing": {
+      "rating": 6,
+      "reason": "The market signal is present but timing is not verified."
+    },
+    "team_evidence": {
+      "rating": 5,
+      "reason": "Founder names are available, but background evidence is limited."
+    },
+    "distribution_retention": {
+      "rating": 5,
+      "reason": "Distribution and retention evidence remain open questions."
+    }
+  },
+  "meeting_case": {
+    "why_meet": "The candidate describes a potentially valuable AI-enabled business workflow, but the strongest diligence gaps concern customer evidence and durable advantage.",
+    "what_to_ask": [
+      "Do developers retain the product after initial experimentation?",
+      "How much value comes from the product versus underlying models?",
+      "What distribution advantage supports continued growth?"
+    ],
+    "what_would_change_my_mind": [
+      "Verified customer usage or retention data.",
+      "A clear product advantage that is difficult to copy."
+    ]
+  }
+}

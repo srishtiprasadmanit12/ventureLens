@@ -1,0 +1,47 @@
+{
+  "name": "Clay",
+  "website": "https://www.clay.com",
+  "description": "Go-to-market automation platform that combines data enrichment, research, and AI-assisted outbound workflows.",
+  "founders": [
+    "Matthias Hilpert",
+    "Cole Turner"
+  ],
+  "source_url": "https://www.clay.com/about",
+  "notes": "Public product materials emphasize combining many data providers with workflow automation. Validate customer concentration, defensibility, and durable distribution.",
+  "source_material": "Clay combines data enrichment, research, and AI-assisted outbound work for go-to-market teams. Founders listed are Matthias Hilpert and Cole Turner. The product may benefit from workflow depth and many integrations, but provider dependency and copyability are open questions. Need evidence about repeat usage, customer ROI, pricing, and distribution.",
+  "evidence": {
+    "team": {
+      "background": "Matthias Hilpert and Cole Turner are listed as founders.",
+      "prior_experience": "Detailed founder background is not included; verify domain and go-to-market experience."
+    },
+    "product": {
+      "target_customer": "Go-to-market and sales teams",
+      "core_product": "Data enrichment, research, and AI-assisted outbound workflow platform",
+      "key_capabilities": [
+        "Data enrichment",
+        "Prospect research",
+        "Outbound automation"
+      ]
+    },
+    "market": {
+      "market_category": "Sales technology and go-to-market automation",
+      "competition": [
+        "Sales intelligence platforms",
+        "CRM automation tools",
+        "Outbound sequencing tools"
+      ]
+    },
+    "traction": {
+      "signal": "Product materials emphasize multiple data providers and workflow automation",
+      "freshness": "Current source material does not include dated revenue or retention evidence"
+    }
+  },
+  "open_questions": [
+    "What measurable customer ROI does Clay produce?",
+    "How dependent is the product on third-party data providers?",
+    "What creates durable distribution or retention?"
+  ],
+  "sources": [
+    "https://www.clay.com/about"
+  ]
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Harvey",
+    "website": "https://www.harvey.ai",
+    "description": "AI software for legal and professional services workflows, including research, drafting, and document analysis.",
+    "founders": ["Gabriel Pereyra", "Winston Weinberg"],
+    "source_url": "https://www.harvey.ai/about",
+    "notes": "Public company materials describe a focus on legal and professional services users. Validate customer traction, workflow depth, and differentiation during analysis.",
+    "source_material": "Harvey says it is building AI for legal and professional services. The product references research, drafting, and document analysis. Founders listed are Gabriel Pereyra and Winston Weinberg. Need to establish who pays, how often the workflow occurs, whether lawyers trust the output, and what is genuinely difficult to copy. No verified traction or retention metric is included here.",
+    "evidence": {
+      "team": {"background": "Founder names are publicly listed, but detailed backgrounds are not included in this dataset.", "prior_experience": "Unknown; verify from founder biographies and professional profiles."},
+      "product": {"target_customer": "Legal and professional services teams", "core_product": "AI software for research, drafting, and document analysis", "key_capabilities": ["Legal research", "Document drafting", "Document analysis"]},
+      "market": {"market_category": "Legal technology and professional services software", "competition": ["Established legal research tools", "Professional services software", "General-purpose AI assistants"]},
+      "traction": {"signal": "Product is positioned for professional workflows", "freshness": "Current source material does not include a dated traction metric"}
+    },
+    "open_questions": ["Who is the economic buyer and what budget funds the product?", "What customer retention or expansion evidence exists?", "How deeply is the product embedded in legal workflows and review processes?"],
+    "sources": ["https://www.harvey.ai/about"]
+  },
+  {
+    "name": "Glean",
+    "website": "https://www.glean.com",
+    "description": "Enterprise AI search and workplace assistant that helps employees find and use information across company systems.",
+    "founders": ["Arvind Jain"],
+    "source_url": "https://www.glean.com/about",
+    "notes": "Public website presents enterprise search and knowledge assistance as the core product. Validate implementation complexity, adoption, and retention signals.",
+    "source_material": "Glean appears to help employees search company systems and use internal knowledge through an AI assistant. Arvind Jain is listed as founder. The buyer and deployment path are not clear from this input. Ask which systems are connected, how quickly a customer sees value, and whether usage becomes part of daily work. No customer or revenue evidence is supplied.",
+    "evidence": {
+      "team": {"background": "Arvind Jain is listed as founder and is described in the supplied research as having a strong engineering background.", "prior_experience": "Previously worked at Google and co-founded Rubrik; verify the exact role and relevance to enterprise infrastructure."},
+      "product": {"target_customer": "Enterprise organizations", "core_product": "AI-powered enterprise search and workplace assistant", "key_capabilities": ["Enterprise search", "Knowledge retrieval", "AI workplace assistance"]},
+      "market": {"market_category": "Enterprise search and workplace AI", "competition": ["Microsoft", "Google", "ServiceNow"]},
+      "traction": {"signal": "Public enterprise customer references and continued product development are suggested by the supplied research", "freshness": "Recent AI product updates are suggested; verify dates and customer evidence"}
+    },
+    "open_questions": ["What is the customer retention rate?", "How deeply is the product integrated into customer workflows?", "What evidence exists for recurring daily usage?"],
+    "sources": ["https://www.glean.com/about"]
+  },
+  {
+    "name": "Clay",
+    "website": "https://www.clay.com",
+    "description": "Go-to-market automation platform that combines data enrichment, research, and AI-assisted outbound workflows.",
+    "founders": ["Matthias Hilpert", "Cole Turner"],
+    "source_url": "https://www.clay.com/about",
+    "notes": "Public product materials emphasize combining many data providers with workflow automation. Validate customer concentration, defensibility, and durable distribution.",
+    "source_material": "Clay combines data enrichment, research, and AI-assisted outbound work for go-to-market teams. Founders listed are Matthias Hilpert and Cole Turner. The product may benefit from workflow depth and many integrations, but provider dependency and copyability are open questions. Need evidence about repeat usage, customer ROI, pricing, and distribution.",
+    "evidence": {
+      "team": {"background": "Matthias Hilpert and Cole Turner are listed as founders.", "prior_experience": "Detailed founder background is not included; verify domain and go-to-market experience."},
+      "product": {"target_customer": "Go-to-market and sales teams", "core_product": "Data enrichment, research, and AI-assisted outbound workflow platform", "key_capabilities": ["Data enrichment", "Prospect research", "Outbound automation"]},
+      "market": {"market_category": "Sales technology and go-to-market automation", "competition": ["Sales intelligence platforms", "CRM automation tools", "Outbound sequencing tools"]},
+      "traction": {"signal": "Product materials emphasize multiple data providers and workflow automation", "freshness": "Current source material does not include dated revenue or retention evidence"}
+    },
+    "open_questions": ["What measurable customer ROI does Clay produce?", "How dependent is the product on third-party data providers?", "What creates durable distribution or retention?"],
+    "sources": ["https://www.clay.com/about"]
+  },
+  {
+    "name": "Decagon",
+    "website": "https://www.decagon.ai",
+    "description": "AI customer support agents for businesses that want to automate customer service conversations across support channels.",
+    "founders": ["Sahil Lavingia", "Mike Levine"],
+    "source_url": "https://www.decagon.ai",
+    "notes": "Public product materials describe AI agents for support operations. Validate resolution quality, human handoff, deployment requirements, and measurable customer outcomes.",
+    "source_material": "Decagon presents AI agents for business customer support. The listed founders are Sahil Lavingia and Mike Levine. The pain may be frequent and expensive, but support quality, escalation behavior, integrations, and measurable resolution outcomes need proof. No verified customer, revenue, or automation rate is included.",
+    "evidence": {
+      "team": {"background": "Sahil Lavingia and Mike Levine are listed as founders.", "prior_experience": "Relevant founder experience and technical depth require verification."},
+      "product": {"target_customer": "Businesses with customer support operations", "core_product": "AI customer support agents", "key_capabilities": ["Support conversation automation", "Human escalation", "Support-channel integration"]},
+      "market": {"market_category": "Customer support software and AI agents", "competition": ["Customer support suites", "Contact-center platforms", "Internal AI support tools"]},
+      "traction": {"signal": "Product is positioned around automating support operations", "freshness": "No verified automation rate, customer count, or dated outcome is included"}
+    },
+    "open_questions": ["What percentage of conversations are resolved without human intervention?", "How reliable is escalation and integration with existing support systems?", "What measurable customer outcome supports expansion or retention?"],
+    "sources": ["https://www.decagon.ai"]
+  },
+  {
+    "name": "Sierra",
+    "website": "https://sierra.ai",
+    "description": "Conversational AI agents that help consumer brands handle customer service and operational interactions.",
+    "founders": ["Bret Taylor", "Clay Bavor"],
+    "source_url": "https://sierra.ai/about",
+    "notes": "Public materials position the product as customer-facing AI agents for brands. Validate reliability, integration depth, economics, and the level of human oversight required.",
+    "source_material": "Sierra describes conversational AI agents for consumer brands handling service and operational interactions. Bret Taylor and Clay Bavor are listed as founders. The opportunity could involve high-volume workflows, while reliability, brand risk, integration depth, unit economics, and human oversight remain unclear.",
+    "evidence": {
+      "team": {"background": "Bret Taylor and Clay Bavor are listed as founders.", "prior_experience": "Both founders are associated with major technology companies; verify the specific operating experience relevant to customer service."},
+      "product": {"target_customer": "Consumer brands", "core_product": "Conversational AI agents for customer service and operations", "key_capabilities": ["Customer conversations", "Service automation", "Operational interactions"]},
+      "market": {"market_category": "Customer experience and conversational AI", "competition": ["Contact-center software", "Customer support platforms", "In-house AI agents"]},
+      "traction": {"signal": "The product targets high-volume brand interactions", "freshness": "No verified resolution, revenue, or retention metric is included"}
+    },
+    "open_questions": ["How often do agents resolve issues correctly without human help?", "What integrations and controls are required by brands?", "Can unit economics support high-volume usage?"],
+    "sources": ["https://sierra.ai/about"]
+  },
+  {
+    "name": "Hebbia",
+    "website": "https://www.hebbia.com",
+    "description": "AI workspace for searching, analyzing, and synthesizing information from large collections of business documents.",
+    "founders": ["George Sivulich"],
+    "source_url": "https://www.hebbia.com/about",
+    "notes": "Public materials emphasize document-heavy knowledge work. Validate target customer urgency, answer accuracy, security requirements, and repeat usage.",
+    "source_material": "Hebbia appears to help teams search, analyze, and synthesize large business-document collections. George Sivulich is listed as founder. The strongest possible use case is document-heavy knowledge work, but target customer, accuracy threshold, security requirements, and repeat usage need evidence.",
+    "evidence": {
+      "team": {"background": "George Sivulich is listed as founder.", "prior_experience": "Founder background and technical depth require verification."},
+      "product": {"target_customer": "Teams performing document-heavy knowledge work", "core_product": "AI workspace for searching, analyzing, and synthesizing business documents", "key_capabilities": ["Document search", "Document analysis", "Information synthesis"]},
+      "market": {"market_category": "Enterprise knowledge management and document intelligence", "competition": ["Enterprise search tools", "Document management platforms", "General-purpose AI assistants"]},
+      "traction": {"signal": "Product is aimed at large collections of business documents", "freshness": "No verified customer usage or dated traction signal is included"}
+    },
+    "open_questions": ["Which customer segment has the most urgent use case?", "What accuracy and security thresholds are required?", "Is usage frequent enough to support durable retention?"],
+    "sources": ["https://www.hebbia.com/about"]
+  },
+  {
+    "name": "Cursor",
+    "website": "https://www.cursor.com",
+    "description": "AI-powered code editor that helps software developers understand, generate, refactor, and review code.",
+    "founders": ["Michael Truell", "Aman Sanger", "Arvid Lunnemark", "Santiago Perez"],
+    "source_url": "https://www.cursor.com/about",
+    "notes": "Public product materials describe an AI-native development environment. Validate developer retention, model dependence, pricing economics, and distribution advantages.",
+    "source_material": "Cursor is an AI-powered code editor for understanding, generating, refactoring, and reviewing code. Founders listed are Michael Truell, Aman Sanger, Arvid Lunnemark, and Santiago Perez. Developer pain is frequent, but model dependence, retention, pricing, and distribution advantages are open questions.",
+    "evidence": {
+      "team": {"background": "Michael Truell, Aman Sanger, Arvid Lunnemark, and Santiago Perez are listed as founders.", "prior_experience": "Detailed founder backgrounds are not included; verify engineering depth and developer-tool experience."},
+      "product": {"target_customer": "Software developers and engineering teams", "core_product": "AI-powered code editor", "key_capabilities": ["Code understanding", "Code generation", "Refactoring", "Code review assistance"]},
+      "market": {"market_category": "Developer tools and AI-assisted software development", "competition": ["GitHub Copilot", "Traditional code editors", "AI coding assistants"]},
+      "traction": {"signal": "Product is embedded directly in a developer's coding workflow", "freshness": "No verified retention, pricing, or usage metric is included"}
+    },
+    "open_questions": ["Do developers retain the product after initial experimentation?", "How much value comes from the product versus underlying models?", "What distribution advantage supports continued growth?"],
+    "sources": ["https://www.cursor.com/about"]
+  },
+  {
+    "name": "Runway",
+    "website": "https://runwayml.com",
+    "description": "Generative AI tools for creating and editing video and other media for creative teams.",
+    "founders": ["Cristobal Valenzuela", "Anastasis Germanidis", "Alejandro Matamala"],
+    "source_url": "https://runwayml.com/about",
+    "notes": "Public materials position the company around generative media creation. Validate business customer focus, workflow integration, compute economics, and content rights risk.",
+    "source_material": "Runway provides generative AI tools for creating and editing video and other media. Founders listed are Cristobal Valenzuela, Anastasis Germanidis, and Alejandro Matamala. Creative demand may be strong, but business customer focus, workflow lock-in, compute economics, and content rights are unresolved.",
+    "evidence": {
+      "team": {"background": "Cristobal Valenzuela, Anastasis Germanidis, and Alejandro Matamala are listed as founders.", "prior_experience": "Relevant creative technology and research experience require verification."},
+      "product": {"target_customer": "Creative teams and media creators", "core_product": "Generative AI tools for video and media creation", "key_capabilities": ["Video generation", "Video editing", "Media creation assistance"]},
+      "market": {"market_category": "Generative media and creative software", "competition": ["Creative software suites", "Generative video tools", "In-house production workflows"]},
+      "traction": {"signal": "Product targets creative production workflows", "freshness": "No verified customer usage or commercial traction metric is included"}
+    },
+    "open_questions": ["Which business customer segment has repeat usage?", "What workflow integration creates retention?", "How do compute costs and content rights affect margins and adoption?"],
+    "sources": ["https://runwayml.com/about"]
+  },
+  {
+    "name": "Ramp",
+    "website": "https://ramp.com",
+    "description": "Financial operations platform providing corporate cards, expense management, bill payments, and automation for businesses.",
+    "founders": ["Eric Glyman", "Karim Atiyeh", "Gene Lee"],
+    "source_url": "https://ramp.com/about",
+    "notes": "Public company materials describe an integrated financial operations platform with automation. Validate the AI-specific advantage, switching costs, and regulatory exposure.",
+    "source_material": "Ramp provides corporate cards, expense management, bill payments, and financial operations automation. Eric Glyman, Karim Atiyeh, and Gene Lee are listed as founders. The platform may own a recurring financial workflow, but the AI-specific advantage, switching costs, and regulatory exposure need investigation.",
+    "evidence": {
+      "team": {"background": "Eric Glyman, Karim Atiyeh, and Gene Lee are listed as founders.", "prior_experience": "Founder experience in financial products and operations requires verification."},
+      "product": {"target_customer": "Businesses managing corporate spending and financial operations", "core_product": "Financial operations platform", "key_capabilities": ["Corporate cards", "Expense management", "Bill payments", "Automation"]},
+      "market": {"market_category": "Business finance and spend management", "competition": ["Corporate card providers", "Expense management platforms", "Banking and ERP products"]},
+      "traction": {"signal": "Product covers recurring financial operations workflows", "freshness": "No verified retention, spend volume, or AI-specific metric is included"}
+    },
+    "open_questions": ["What is the AI-specific product advantage?", "How high are switching costs and customer retention?", "What regulatory risks constrain expansion?"],
+    "sources": ["https://ramp.com/about"]
+  },
+  {
+    "name": "Vanta",
+    "website": "https://www.vanta.com",
+    "description": "Trust management platform that helps companies automate security compliance, audits, and vendor risk workflows.",
+    "founders": ["Christina Cacioppo"],
+    "source_url": "https://www.vanta.com/about",
+    "notes": "Public materials describe automated compliance and trust workflows. Validate AI differentiation, renewal behavior, audit liability, and competitive pressure.",
+    "source_material": "Vanta helps companies automate security compliance, audits, and vendor-risk workflows. Christina Cacioppo is listed as founder. Compliance is recurring and potentially painful, while AI differentiation, renewal behavior, audit liability, and competitive pressure remain unknown.",
+    "evidence": {
+      "team": {"background": "Christina Cacioppo is listed as founder.", "prior_experience": "Founder background and compliance domain experience require verification."},
+      "product": {"target_customer": "Companies managing security compliance and vendor risk", "core_product": "Trust management and compliance automation platform", "key_capabilities": ["Security compliance", "Audit preparation", "Vendor risk workflows"]},
+      "market": {"market_category": "Security compliance and trust management", "competition": ["Compliance automation platforms", "Security consulting firms", "Internal security teams"]},
+      "traction": {"signal": "Product addresses recurring compliance and audit workflows", "freshness": "No verified renewal, customer, or AI differentiation metric is included"}
+    },
+    "open_questions": ["What evidence exists for renewal and expansion?", "How much of the workflow is automated versus assisted?", "Who bears liability when compliance evidence is incomplete or wrong?"],
+    "sources": ["https://www.vanta.com/about"]
+  }
+]

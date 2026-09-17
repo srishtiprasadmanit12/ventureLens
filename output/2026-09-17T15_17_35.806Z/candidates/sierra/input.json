@@ -1,0 +1,47 @@
+{
+  "name": "Sierra",
+  "website": "https://sierra.ai",
+  "description": "Conversational AI agents that help consumer brands handle customer service and operational interactions.",
+  "founders": [
+    "Bret Taylor",
+    "Clay Bavor"
+  ],
+  "source_url": "https://sierra.ai/about",
+  "notes": "Public materials position the product as customer-facing AI agents for brands. Validate reliability, integration depth, economics, and the level of human oversight required.",
+  "source_material": "Sierra describes conversational AI agents for consumer brands handling service and operational interactions. Bret Taylor and Clay Bavor are listed as founders. The opportunity could involve high-volume workflows, while reliability, brand risk, integration depth, unit economics, and human oversight remain unclear.",
+  "evidence": {
+    "team": {
+      "background": "Bret Taylor and Clay Bavor are listed as founders.",
+      "prior_experience": "Both founders are associated with major technology companies; verify the specific operating experience relevant to customer service."
+    },
+    "product": {
+      "target_customer": "Consumer brands",
+      "core_product": "Conversational AI agents for customer service and operations",
+      "key_capabilities": [
+        "Customer conversations",
+        "Service automation",
+        "Operational interactions"
+      ]
+    },
+    "market": {
+      "market_category": "Customer experience and conversational AI",
+      "competition": [
+        "Contact-center software",
+        "Customer support platforms",
+        "In-house AI agents"
+      ]
+    },
+    "traction": {
+      "signal": "The product targets high-volume brand interactions",
+      "freshness": "No verified resolution, revenue, or retention metric is included"
+    }
+  },
+  "open_questions": [
+    "How often do agents resolve issues correctly without human help?",
+    "What integrations and controls are required by brands?",
+    "Can unit economics support high-volume usage?"
+  ],
+  "sources": [
+    "https://sierra.ai/about"
+  ]
+}

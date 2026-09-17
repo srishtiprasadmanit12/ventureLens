@@ -1,0 +1,86 @@
+{
+  "team": {
+    "summary": "The listed founders are George Sivulich.",
+    "evidence": [
+      {
+        "claim": "Founder names are listed in the candidate dataset.",
+        "url": "https://www.hebbia.com/about",
+        "quote": "Hebbia appears to help teams search, analyze, and synthesize large business-document collections. George Sivulich is listed as founder. The strongest possible use case is document-heavy knowledge work, but target customer, accuracy threshold, security requirements, and repeat usage need evidence."
+      }
+    ],
+    "unknowns": [
+      "Prior exits, technical depth, and founder-market fit require verification."
+    ]
+  },
+  "product": {
+    "summary": "AI workspace for searching, analyzing, and synthesizing information from large collections of business documents.",
+    "evidence": [
+      {
+        "claim": "The candidate has a public source recorded.",
+        "url": "https://www.hebbia.com/about",
+        "quote": "https://www.hebbia.com/about"
+      }
+    ],
+    "unknowns": [
+      "Implementation depth and customer adoption are not established."
+    ]
+  },
+  "market": {
+    "summary": "Enterprise knowledge management and document intelligence",
+    "evidence": [
+      {
+        "claim": "The candidate has a public source recorded.",
+        "url": "https://www.hebbia.com/about",
+        "quote": "https://www.hebbia.com/about"
+      }
+    ],
+    "unknowns": [
+      "Market size, willingness to pay, and timing are not established."
+    ],
+    "assumptions": [
+      "The described workflow occurs often enough to justify dedicated software."
+    ]
+  },
+  "risks": [
+    "The input does not verify traction, retention, pricing, or customer outcomes.",
+    "Competitive and distribution risks require diligence."
+  ],
+  "scoring_inputs": {
+    "pain_frequency": {
+      "rating": 7,
+      "reason": "The source describes a recurring business workflow."
+    },
+    "product_clarity": {
+      "rating": 7,
+      "reason": "The candidate description states the product category and use case."
+    },
+    "ai_advantage": {
+      "rating": 7,
+      "reason": "The input describes an AI or automation component."
+    },
+    "market_timing": {
+      "rating": 6,
+      "reason": "The market signal is present but timing is not verified."
+    },
+    "team_evidence": {
+      "rating": 5,
+      "reason": "Founder names are available, but background evidence is limited."
+    },
+    "distribution_retention": {
+      "rating": 5,
+      "reason": "Distribution and retention evidence remain open questions."
+    }
+  },
+  "meeting_case": {
+    "why_meet": "The candidate describes a potentially valuable AI-enabled business workflow, but the strongest diligence gaps concern customer evidence and durable advantage.",
+    "what_to_ask": [
+      "Which customer segment has the most urgent use case?",
+      "What accuracy and security thresholds are required?",
+      "Is usage frequent enough to support durable retention?"
+    ],
+    "what_would_change_my_mind": [
+      "Verified customer usage or retention data.",
+      "A clear product advantage that is difficult to copy."
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Runway",
+  "website": "https://runwayml.com",
+  "description": "Generative AI tools for creating and editing video and other media for creative teams.",
+  "founders": [
+    "Cristobal Valenzuela",
+    "Anastasis Germanidis",
+    "Alejandro Matamala"
+  ],
+  "source_url": "https://runwayml.com/about",
+  "notes": "Public materials position the company around generative media creation. Validate business customer focus, workflow integration, compute economics, and content rights risk.",
+  "source_material": "Runway provides generative AI tools for creating and editing video and other media. Founders listed are Cristobal Valenzuela, Anastasis Germanidis, and Alejandro Matamala. Creative demand may be strong, but business customer focus, workflow lock-in, compute economics, and content rights are unresolved.",
+  "evidence": {
+    "team": {
+      "background": "Cristobal Valenzuela, Anastasis Germanidis, and Alejandro Matamala are listed as founders.",
+      "prior_experience": "Relevant creative technology and research experience require verification."
+    },
+    "product": {
+      "target_customer": "Creative teams and media creators",
+      "core_product": "Generative AI tools for video and media creation",
+      "key_capabilities": [
+        "Video generation",
+        "Video editing",
+        "Media creation assistance"
+      ]
+    },
+    "market": {
+      "market_category": "Generative media and creative software",
+      "competition": [
+        "Creative software suites",
+        "Generative video tools",
+        "In-house production workflows"
+      ]
+    },
+    "traction": {
+      "signal": "Product targets creative production workflows",
+      "freshness": "No verified customer usage or commercial traction metric is included"
+    }
+  },
+  "open_questions": [
+    "Which business customer segment has repeat usage?",
+    "What workflow integration creates retention?",
+    "How do compute costs and content rights affect margins and adoption?"
+  ],
+  "sources": [
+    "https://runwayml.com/about"
+  ]
+}

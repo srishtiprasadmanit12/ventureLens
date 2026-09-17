@@ -1,0 +1,86 @@
+{
+  "team": {
+    "summary": "The listed founders are Gabriel Pereyra, Winston Weinberg.",
+    "evidence": [
+      {
+        "claim": "Founder names are listed in the candidate dataset.",
+        "url": "https://www.harvey.ai/about",
+        "quote": "Harvey says it is building AI for legal and professional services. The product references research, drafting, and document analysis. Founders listed are Gabriel Pereyra and Winston Weinberg. Need to establish who pays, how often the workflow occurs, whether lawyers trust the output, and what is genuinely difficult to copy. No verified traction or retention metric is included here."
+      }
+    ],
+    "unknowns": [
+      "Prior exits, technical depth, and founder-market fit require verification."
+    ]
+  },
+  "product": {
+    "summary": "AI software for legal and professional services workflows, including research, drafting, and document analysis.",
+    "evidence": [
+      {
+        "claim": "The candidate has a public source recorded.",
+        "url": "https://www.harvey.ai/about",
+        "quote": "https://www.harvey.ai/about"
+      }
+    ],
+    "unknowns": [
+      "Implementation depth and customer adoption are not established."
+    ]
+  },
+  "market": {
+    "summary": "Legal technology and professional services software",
+    "evidence": [
+      {
+        "claim": "The candidate has a public source recorded.",
+        "url": "https://www.harvey.ai/about",
+        "quote": "https://www.harvey.ai/about"
+      }
+    ],
+    "unknowns": [
+      "Market size, willingness to pay, and timing are not established."
+    ],
+    "assumptions": [
+      "The described workflow occurs often enough to justify dedicated software."
+    ]
+  },
+  "risks": [
+    "The input does not verify traction, retention, pricing, or customer outcomes.",
+    "Competitive and distribution risks require diligence."
+  ],
+  "scoring_inputs": {
+    "pain_frequency": {
+      "rating": 7,
+      "reason": "The source describes a recurring business workflow."
+    },
+    "product_clarity": {
+      "rating": 7,
+      "reason": "The candidate description states the product category and use case."
+    },
+    "ai_advantage": {
+      "rating": 7,
+      "reason": "The input describes an AI or automation component."
+    },
+    "market_timing": {
+      "rating": 6,
+      "reason": "The market signal is present but timing is not verified."
+    },
+    "team_evidence": {
+      "rating": 5,
+      "reason": "Founder names are available, but background evidence is limited."
+    },
+    "distribution_retention": {
+      "rating": 5,
+      "reason": "Distribution and retention evidence remain open questions."
+    }
+  },
+  "meeting_case": {
+    "why_meet": "The candidate describes a potentially valuable AI-enabled business workflow, but the strongest diligence gaps concern customer evidence and durable advantage.",
+    "what_to_ask": [
+      "Who is the economic buyer and what budget funds the product?",
+      "What customer retention or expansion evidence exists?",
+      "How deeply is the product embedded in legal workflows and review processes?"
+    ],
+    "what_would_change_my_mind": [
+      "Verified customer usage or retention data.",
+      "A clear product advantage that is difficult to copy."
+    ]
+  }
+}

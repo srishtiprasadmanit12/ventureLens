@@ -1,0 +1,47 @@
+{
+  "name": "Decagon",
+  "website": "https://www.decagon.ai",
+  "description": "AI customer support agents for businesses that want to automate customer service conversations across support channels.",
+  "founders": [
+    "Sahil Lavingia",
+    "Mike Levine"
+  ],
+  "source_url": "https://www.decagon.ai",
+  "notes": "Public product materials describe AI agents for support operations. Validate resolution quality, human handoff, deployment requirements, and measurable customer outcomes.",
+  "source_material": "Decagon presents AI agents for business customer support. The listed founders are Sahil Lavingia and Mike Levine. The pain may be frequent and expensive, but support quality, escalation behavior, integrations, and measurable resolution outcomes need proof. No verified customer, revenue, or automation rate is included.",
+  "evidence": {
+    "team": {
+      "background": "Sahil Lavingia and Mike Levine are listed as founders.",
+      "prior_experience": "Relevant founder experience and technical depth require verification."
+    },
+    "product": {
+      "target_customer": "Businesses with customer support operations",
+      "core_product": "AI customer support agents",
+      "key_capabilities": [
+        "Support conversation automation",
+        "Human escalation",
+        "Support-channel integration"
+      ]
+    },
+    "market": {
+      "market_category": "Customer support software and AI agents",
+      "competition": [
+        "Customer support suites",
+        "Contact-center platforms",
+        "Internal AI support tools"
+      ]
+    },
+    "traction": {
+      "signal": "Product is positioned around automating support operations",
+      "freshness": "No verified automation rate, customer count, or dated outcome is included"
+    }
+  },
+  "open_questions": [
+    "What percentage of conversations are resolved without human intervention?",
+    "How reliable is escalation and integration with existing support systems?",
+    "What measurable customer outcome supports expansion or retention?"
+  ],
+  "sources": [
+    "https://www.decagon.ai"
+  ]
+}

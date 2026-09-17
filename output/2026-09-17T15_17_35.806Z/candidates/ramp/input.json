@@ -1,0 +1,49 @@
+{
+  "name": "Ramp",
+  "website": "https://ramp.com",
+  "description": "Financial operations platform providing corporate cards, expense management, bill payments, and automation for businesses.",
+  "founders": [
+    "Eric Glyman",
+    "Karim Atiyeh",
+    "Gene Lee"
+  ],
+  "source_url": "https://ramp.com/about",
+  "notes": "Public company materials describe an integrated financial operations platform with automation. Validate the AI-specific advantage, switching costs, and regulatory exposure.",
+  "source_material": "Ramp provides corporate cards, expense management, bill payments, and financial operations automation. Eric Glyman, Karim Atiyeh, and Gene Lee are listed as founders. The platform may own a recurring financial workflow, but the AI-specific advantage, switching costs, and regulatory exposure need investigation.",
+  "evidence": {
+    "team": {
+      "background": "Eric Glyman, Karim Atiyeh, and Gene Lee are listed as founders.",
+      "prior_experience": "Founder experience in financial products and operations requires verification."
+    },
+    "product": {
+      "target_customer": "Businesses managing corporate spending and financial operations",
+      "core_product": "Financial operations platform",
+      "key_capabilities": [
+        "Corporate cards",
+        "Expense management",
+        "Bill payments",
+        "Automation"
+      ]
+    },
+    "market": {
+      "market_category": "Business finance and spend management",
+      "competition": [
+        "Corporate card providers",
+        "Expense management platforms",
+        "Banking and ERP products"
+      ]
+    },
+    "traction": {
+      "signal": "Product covers recurring financial operations workflows",
+      "freshness": "No verified retention, spend volume, or AI-specific metric is included"
+    }
+  },
+  "open_questions": [
+    "What is the AI-specific product advantage?",
+    "How high are switching costs and customer retention?",
+    "What regulatory risks constrain expansion?"
+  ],
+  "sources": [
+    "https://ramp.com/about"
+  ]
+}

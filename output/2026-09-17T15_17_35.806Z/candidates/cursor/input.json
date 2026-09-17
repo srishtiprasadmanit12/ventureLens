@@ -1,0 +1,50 @@
+{
+  "name": "Cursor",
+  "website": "https://www.cursor.com",
+  "description": "AI-powered code editor that helps software developers understand, generate, refactor, and review code.",
+  "founders": [
+    "Michael Truell",
+    "Aman Sanger",
+    "Arvid Lunnemark",
+    "Santiago Perez"
+  ],
+  "source_url": "https://www.cursor.com/about",
+  "notes": "Public product materials describe an AI-native development environment. Validate developer retention, model dependence, pricing economics, and distribution advantages.",
+  "source_material": "Cursor is an AI-powered code editor for understanding, generating, refactoring, and reviewing code. Founders listed are Michael Truell, Aman Sanger, Arvid Lunnemark, and Santiago Perez. Developer pain is frequent, but model dependence, retention, pricing, and distribution advantages are open questions.",
+  "evidence": {
+    "team": {
+      "background": "Michael Truell, Aman Sanger, Arvid Lunnemark, and Santiago Perez are listed as founders.",
+      "prior_experience": "Detailed founder backgrounds are not included; verify engineering depth and developer-tool experience."
+    },
+    "product": {
+      "target_customer": "Software developers and engineering teams",
+      "core_product": "AI-powered code editor",
+      "key_capabilities": [
+        "Code understanding",
+        "Code generation",
+        "Refactoring",
+        "Code review assistance"
+      ]
+    },
+    "market": {
+      "market_category": "Developer tools and AI-assisted software development",
+      "competition": [
+        "GitHub Copilot",
+        "Traditional code editors",
+        "AI coding assistants"
+      ]
+    },
+    "traction": {
+      "signal": "Product is embedded directly in a developer's coding workflow",
+      "freshness": "No verified retention, pricing, or usage metric is included"
+    }
+  },
+  "open_questions": [
+    "Do developers retain the product after initial experimentation?",
+    "How much value comes from the product versus underlying models?",
+    "What distribution advantage supports continued growth?"
+  ],
+  "sources": [
+    "https://www.cursor.com/about"
+  ]
+}
